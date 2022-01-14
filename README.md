@@ -18,4 +18,4 @@ Dataset used contains approx 6000 entries of different movies released from 1925
 
 Used Count Vectorizer and Cosine similarity to find 10 most related movies to any movie in this dataset.
 
-![](Images/Screenshot (501).png)
+![](Images/Recommendations.png)
